@@ -14,4 +14,3 @@
 *.jpg binary
 
 Python/** linguist-vendored
-*.ipynb linguist-vendored=true
