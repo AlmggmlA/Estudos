@@ -13,5 +13,5 @@
 *.png binary
 *.jpg binary
 
-Python/* linguist-vendored
+Python/** linguist-vendored
 *.ipynb linguist-vendored=false
